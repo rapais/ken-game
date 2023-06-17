@@ -21,7 +21,7 @@ const items = [
   {name: "aripdelapan", image: "https://i.postimg.cc/ydksZYZV/ken7.png"} ,
   {name: "aripsembilan", image: "https://i.postimg.cc/yYK2q88k/ken8.png"} ,
   {name: "aripsepuluh", image: "https://i.postimg.cc/bwC520Ht/ken9.png"} ,
-  {name: "aripsebelas", image: "https://i.postimg.cc/bwC520Ht/ken9.png"} ,
+  {name: "aripsebelas", image: "https://i.postimg.cc/mkspGmR0/ken10.png"} ,
   {name: "aripduabelas", image: "https://i.postimg.cc/jqHkhY4K/ken11.png"} ,
 ];
 
